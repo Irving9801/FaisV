@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irvin\\source\\repos\\Fais1\\Fais1\\Fais1.csproj": {}
+    "C:\\Users\\Irvin\\source\\repos\\Fais1\\FaisV\\Fais1\\Fais1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irvin\\source\\repos\\Fais1\\Fais1\\Fais1.csproj": {
+    "C:\\Users\\Irvin\\source\\repos\\Fais1\\FaisV\\Fais1\\Fais1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irvin\\source\\repos\\Fais1\\Fais1\\Fais1.csproj",
+        "projectUniqueName": "C:\\Users\\Irvin\\source\\repos\\Fais1\\FaisV\\Fais1\\Fais1.csproj",
         "projectName": "Fais1",
-        "projectPath": "C:\\Users\\Irvin\\source\\repos\\Fais1\\Fais1\\Fais1.csproj",
+        "projectPath": "C:\\Users\\Irvin\\source\\repos\\Fais1\\FaisV\\Fais1\\Fais1.csproj",
         "packagesPath": "C:\\Users\\Irvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irvin\\source\\repos\\Fais1\\Fais1\\obj\\",
+        "outputPath": "C:\\Users\\Irvin\\source\\repos\\Fais1\\FaisV\\Fais1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
